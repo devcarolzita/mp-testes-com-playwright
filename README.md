@@ -22,24 +22,29 @@ Caso você tenha dúvida em algum desses tópicos, nos chame no [discord](https:
 ## 🔨 Requisitos
 
 ### Requisito 1
-- Verificar se o dropdown carrega corretamente com as opções ['Todos', 'Frutas', 'Comidas', 'Doces'].
-- Verificar se ao selecionar 'Frutas', mostra as 3 opções existentes ['Maçã', 'Banana', 'Laranja'].
-- Verificar se ao selecionar 'Comidas', mostra as 5 opções existentes ['Frango Grelhado (100g)', 'Arroz Cozido (100g)', 'Pizza', 'Hambúrguer', 'Sushi'].
-- Verificar se ao selecionar 'Doces', mostra as 3 opções existentes ['Sorvete', 'Bolo', 'Chocolate'].
+Crie os seguintes testes:
+- Verificar se o dropdown carrega corretamente com as opções `['Todos', 'Frutas', 'Comidas', 'Doces']`.
+- Verificar se ao selecionar 'Frutas', mostra as 3 opções existentes `['Maçã', 'Banana', 'Laranja'].
+- Verificar se ao selecionar 'Comidas', mostra as 5 opções existentes `['Frango Grelhado (100g)', 'Arroz Cozido (100g)', 'Pizza', 'Hambúrguer', 'Sushi']`.
+- Verificar se ao selecionar 'Doces', mostra as 3 opções existentes `['Sorvete', 'Bolo', 'Chocolate']`.
+
 
 ### Requisito 2
-- Verificar se o dropdown carrega corretamente com as opções de frutas ['Limão', 'Laranja', 'Morango'] e destilados ['Rum', 'Vodka', 'Gin'].
-- Verificar se ao selecionar 'Limão' e 'Rum', o drink correto 'Daiquiri' é exibido com a descrição e imagem corretas.
-- Verificar se ao selecionar 'Laranja' e 'Vodka', o drink correto 'Screwdriver' é exibido com a descrição e imagem corretas.
-- Verificar se ao selecionar 'Morango' e 'Gin', o drink correto 'Strawberry Martini' é exibido com a descrição e imagem corretas.
+Para o requisito 2, crie os seguintes testes:
+- Verificar se o dropdown carrega corretamente com as opções de frutas `['Limão', 'Laranja', 'Morango']` e destilados `['Rum', 'Vodka', 'Gin']`.
+- Verificar se ao selecionar 'Limão' e 'Rum', o drink correto `Daiquiri` é exibido com a descrição e imagem corretas.
+- Verificar se ao selecionar 'Laranja' e `Vodka`, o drink correto `Screwdriver` é exibido com a descrição e imagem corretas.
+- Verificar se ao selecionar 'Morango' e `Gin`, o drink correto `Strawberry Martini` é exibido com a descrição e imagem corretas.
 
 ### Requisito 3
+Nesse último requisito, crie os seguintes testes:
 - Verificar se a lista de alimentos carrega corretamente.
 - Verificar se ao selecionar um alimento, ele é adicionado à lista de selecionados.
 - Verificar se ao selecionar múltiplos alimentos, o total de calorias é atualizado corretamente.
 - Verificar se ao remover um alimento, o total de calorias é atualizado corretamente.
 
-  
+Se quiser ir além, crie outros testes!
+
 > 👀 **Dicas:**
 > - Pensar qual seria o fluxo do usuário pode te ajudar a destravar nos testes
 
