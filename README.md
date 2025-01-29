@@ -24,7 +24,7 @@ Caso você tenha dúvida em algum desses tópicos, nos chame no [discord](https:
 ### Requisito 1
 Crie os seguintes testes:
 - Verificar se o dropdown carrega corretamente com as opções `['Todos', 'Frutas', 'Comidas', 'Doces']`.
-- Verificar se ao selecionar 'Frutas', mostra as 3 opções existentes `['Maçã', 'Banana', 'Laranja'].
+- Verificar se ao selecionar 'Frutas', mostra as 3 opções existentes `['Maçã', 'Banana', 'Laranja']`.
 - Verificar se ao selecionar 'Comidas', mostra as 5 opções existentes `['Frango Grelhado (100g)', 'Arroz Cozido (100g)', 'Pizza', 'Hambúrguer', 'Sushi']`.
 - Verificar se ao selecionar 'Doces', mostra as 3 opções existentes `['Sorvete', 'Bolo', 'Chocolate']`.
 
