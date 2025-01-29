@@ -1,4 +1,4 @@
-# Nome do Mini Projeto
+# Testes com playwright
 
 Um projeto focado em criar testes end-to-end de uma forma simples para poder treinar essa cultura de testes.
 
