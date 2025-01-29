@@ -48,7 +48,6 @@ Caso você tenha dúvida em algum desses tópicos, nos chame no [discord](https:
 
 - Automação com testes end-to-end
 - Validação de Conteúdo Visual
-- 
 
 #### Javascript
 
