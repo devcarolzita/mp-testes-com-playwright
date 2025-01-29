@@ -12,6 +12,10 @@ O objetivo desse projeto é você analisar um código já criado e criar os test
 - Familiaridade com manipulação do DOM e eventos em JavaScript.
 - Noções de como configurar e executar um servidor local para desenvolvimento. Recomendamos que use a extensão do live-server.
 
+Para poder instalar as dependências: 
+
+Utilize `npm install` e depois para rodar os testes `npx playwright test`
+
 Caso você tenha dúvida em algum desses tópicos, nos chame no [discord](https://codante.io/#:~:text=PRO-,Entre%20na%20Comunidade,-Junte%2Dse%20%C3%A0)! 
 
 
