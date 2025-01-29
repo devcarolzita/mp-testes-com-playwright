@@ -1,10 +1,10 @@
 # Testes com playwright
 
-Um projeto focado em criar testes end-to-end de uma forma simples para poder treinar essa cultura de testes.
+Um projeto focado na criação de testes end-to-end de forma simples, visando o treinamento dessa cultura de testes.
 
 ## 🤓 Antes de começar
 
-O objetivo desse projeto é você analisar um código já criado e criar os testes em cima dele. Para isso, você precisa ter:
+O objetivo deste projeto é que você analise um código já existente e desenvolva testes para ele. Para isso, você precisa ter:
 
 - Node.js instalado na máquina.
 - Um editor de código, como Visual Studio Code.
@@ -12,11 +12,11 @@ O objetivo desse projeto é você analisar um código já criado e criar os test
 - Familiaridade com manipulação do DOM e eventos em JavaScript.
 - Noções de como configurar e executar um servidor local para desenvolvimento. Recomendamos que use a extensão do live-server.
 
-Para poder instalar as dependências: 
+Para instalar as dependências:
 
 Utilize `npm install` e depois para rodar os testes `npx playwright test`
 
-Caso você tenha dúvida em algum desses tópicos, nos chame no [discord](https://codante.io/#:~:text=PRO-,Entre%20na%20Comunidade,-Junte%2Dse%20%C3%A0)! 
+Caso tenha dúvidas sobre algum desses tópicos, entre em contato conosco [discord](https://codante.io/#:~:text=PRO-,Entre%20na%20Comunidade,-Junte%2Dse%20%C3%A0)! 
 
 
 ## 🔨 Requisitos
