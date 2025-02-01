@@ -52,6 +52,7 @@ const createFood = (item) => {
   img.src = item.image;
 
   const p = document.createElement('p');
+  p.classList.add('food-name');
   p.textContent = item.name;
 
   const calories = document.createElement('p');
